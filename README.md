@@ -40,6 +40,7 @@ Os jogos ajudam o usuário a praticar teoria musical de forma interativa.
  
  🎼 1. Diagrama de Classe
 Obs: Afinador: Componentes (ID, tipoInstrumento e frequencias)
+![Texto alternativo](Diagrama de Classe.jpeg)
 
  
  
@@ -71,7 +72,7 @@ Obs: Afinador: Componentes (ID, tipoInstrumento e frequencias)
  Deixa claro quais partes do sistema são responsáveis por quais funcionalidades.
  Ajuda na divisão de tarefas entre equipes de desenvolvimento.
  Facilita a manutenção futura, pois cada módulo pode evoluir de forma mais independente.
-Imagem:
+Imagem: ![Texto alternativo](Diagrama de Pacotes.jpeg)
 
 
 
@@ -108,7 +109,7 @@ Imagem:
  Mostra claramente o caminho das ações e decisões do sistema.
  Ajuda desenvolvedores e designers a entenderem quem faz o quê e quando.
  Permite encontrar pontos de otimização ou identificar onde erros podem acontecer.
-Imagem:
+Imagem: ![Texto alternativo](Diagrama de Sequência.jpeg)
 
 
 
@@ -138,6 +139,7 @@ O conteúdo da apostila é exibido na plataforma (PDF interativo ou leitura dire
  7. [Fim]
  Conclusão do fluxo, sinalizando que a experiência com aquele conteúdo terminou —
  por ora.
+![Texto alternativo](Diagrama de Atividades.jpeg)
 
 
  🧩 Por que esse diagrama é importante?
